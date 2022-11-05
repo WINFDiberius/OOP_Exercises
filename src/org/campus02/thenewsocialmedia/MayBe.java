@@ -1,11 +1,11 @@
 package org.campus02.thenewsocialmedia;
 
-public class MayBeCreditCardNumber {
-    private String creditCardNumber;
+public class MayBe<T> {
+    private T value;
     private AccessRole neededAccessRole;
 
-    public MayBeCreditCardNumber(String creditCardNumber){
-        this.creditCardNumber = creditCardNumber;
+    public MayBe(T value){
+        this.value = value;
         this.neededAccessRole = AccessRole.ExternalUser;
     }
 
@@ -13,7 +13,7 @@ public class MayBeCreditCardNumber {
         switch (accessor){
             case Platform:
             case Self:
-                System.out.println(creditCardNumber);
+                System.out.println(value);
                 break;
             case BestFriend:
             case RegistererdCustomer:

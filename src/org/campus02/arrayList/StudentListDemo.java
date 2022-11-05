@@ -1,2 +1,5 @@
-package org.campus02.arrayList;public class StudentListDemo {
+package org.campus02.arrayList;
+
+public class StudentListDemo {
+
 }

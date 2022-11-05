@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd2d705a-3297-44c4-9024-622a1bbf1346" name="Changes" comment="" />
+    <list default="true" id="cd2d705a-3297-44c4-9024-622a1bbf1346" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/org/campus02/arrayList/StudentSetDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/campus02/arrayList/ListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/arrayList/ListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/campus02/arrayList/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/arrayList/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/campus02/arrayList/SetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/arrayList/SetDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/campus02/arrayList/StudentListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/arrayList/StudentListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/campus02/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/student/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/campus02/student/StudentListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/student/StudentListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/campus02/thenewsocialmedia/AccessRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/thenewsocialmedia/AccessRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/campus02/thenewsocialmedia/MayBe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/thenewsocialmedia/MayBe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/campus02/thenewsocialmedia/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/thenewsocialmedia/Profile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/campus02/thenewsocialmedia/SocialNetworkApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/campus02/thenewsocialmedia/SocialNetworkApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rezeptverwaltung/DemoClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rezeptverwaltung/DemoClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rezeptverwaltung/Ingredient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rezeptverwaltung/Ingredient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rezeptverwaltung/Recipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rezeptverwaltung/Recipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/DemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack/DemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack/Stack.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GJ4TMnJZ2w3fy50XvwAeldr2yQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +48,88 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Campus02/Java/Grundlagen der Softwareentwicklung/Array_Exercises",
+    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.StudentSetDemo">
+    <configuration name="DemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.DemoApp" />
+      <module name="OOP_Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.campus02.arrayList.ListDemo" />
+      <module name="OOP_Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.campus02.arrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.campus02.arrayList.SetDemo" />
+      <module name="OOP_Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.campus02.arrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.campus02.student.StudentListDemo" />
+      <module name="OOP_Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.campus02.student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.campus02.arrayList.StudentSetDemo" />
+      <module name="OOP_Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.campus02.arrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentSetDemo" />
+        <item itemvalue="Application.SetDemo" />
+        <item itemvalue="Application.ListDemo" />
+        <item itemvalue="Application.StudentListDemo" />
+        <item itemvalue="Application.DemoApp" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

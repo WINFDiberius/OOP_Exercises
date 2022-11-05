@@ -1,3 +1,5 @@
+package rezeptverwaltung;
+
 public class Ingredient {
 
     String ingridientName; //Gibt die Zutat an

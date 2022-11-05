@@ -1,13 +1,14 @@
 package stack;
 
-public class Stack<T> {
+public class Card {
     private int value;
     private String colour;
 
-    public Stack(int value, String colour) {
+    public Card(int value, String colour) {
         if (value < 1 || value > 9) {
             System.out.println("Nicht erlaubter Wert: " + value);
             return;
+
         }
 
         if (!(colour.equals("blue") || colour.equals("green") || colour.equals("red") || colour.equals("yellow"))){

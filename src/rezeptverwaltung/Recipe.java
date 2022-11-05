@@ -1,3 +1,5 @@
+package rezeptverwaltung;
+
 public class Recipe {
 
     String recipeName;
@@ -28,7 +30,7 @@ public class Recipe {
 
     public void printRecipe()
     {
-        System.out.println("Recipe Name: " + recipeName);
+        System.out.println("rezeptverwaltung.Recipe Name: " + recipeName);
         for (int i = 0; i < ingredientList.length; i++) {
             if(ingredientList[i] == null)
                 break;
