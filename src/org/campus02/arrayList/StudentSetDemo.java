@@ -8,17 +8,17 @@ public class StudentSetDemo {
     public static void main(String[] args) {
         HashSet<Student> students = new HashSet<Student>();
 
-        Student adi = new Student(4,"Adolf Postl");
-        Student katja = new Student(5,"Katja Feyrer");
-        Student daniel = new Student(3,"Daniel Sattler");
-        students.add(adi);
-        students.add(katja);
-        students.add(daniel);
-        students.add(daniel);
+        Student hashsetadi = new Student(4,"Adolf Postl");
+        Student hashsetekatja = new Student(5,"Katja Feyrer");
+        Student hashsetdaniel = new Student(3,"Daniel Sattler");
+        students.add(hashsetadi);
+        students.add(hashsetekatja);
+        students.add(hashsetdaniel);
+        students.add(hashsetdaniel);
 
-        students.remove(daniel);
+        students.remove(hashsetdaniel);
 
-        System.out.println(students.equals(katja));
+        System.out.println(students.equals(hashsetekatja));
 
         for (Student student:students )
             System.out.println("student = " + student);
@@ -26,7 +26,8 @@ public class StudentSetDemo {
 
         Student daniel2 = new Student(3,"Daniel Sattler");
 
-
+        System.out.println("Zeigt ob User schon hinzugefügt wurde: students.contains(hashsetdaniel) = " + students.contains(hashsetekatja));
+        System.out.println("students.contains(new Student(4,\"Adolf Postl\")) = " + students.contains(new Student(4,"Adolf Postl")));
 
 
     }
